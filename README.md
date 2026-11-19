@@ -1,16 +1,15 @@
-## Hi there 👋
+# Oi, eu sou a Tainá! 👋
 
-<!--
-**tataviviejoeney641-crypto/tataviviejoeney641-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Análise e Desenvolvimento de Sistemas | Operações de campo em telecomunicações**
 
-Here are some ideas to get you started:
+Trabalho no FIELD, acompanhando técnicos de campo e apoiando a resolução de chamados. Estudo Python para aplicar programação e análise de dados a problemas que conheço de perto, como organizar informações de atendimento e acompanhar demandas de suporte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+
+- **[Projeto Finanças](https://github.com/tataviviejoeney641-crypto/projeto-financas)** — projeto de estudo em Jupyter Notebook.
+- **Previsão de preços de carros** — aplicação desenvolvida no SENAI com Python, regressão linear e Streamlit.
+- **Central de Chamados** — protótipo de suporte com Python e Streamlit, inspirado na minha rotina em telecomunicações.
+
+## Tecnologias que uso nos estudos
+
+Python · Streamlit · Jupyter Notebook · Git · GitHub
